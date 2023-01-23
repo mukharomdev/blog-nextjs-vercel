@@ -1,6 +1,6 @@
 ---
 name: Mukharomdev
-avatar: /static/images/avatar.png
+avatar: /static/images/mukharomdev.jpg
 occupation: Web Enthusiast & Coding
 company: Mukharomdev blog
 email: mukharomdev@gmail.com
