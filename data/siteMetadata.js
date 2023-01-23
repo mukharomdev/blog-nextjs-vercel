@@ -13,7 +13,7 @@ const siteMetadata = {
   email: 'address@yoursite.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/mukharomBYR',
-  facebook: 'https://facebook.com/putu.munarwn.9',
+  facebook: 'https://facebook.com/putu.munaren.9',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
   locale: 'id-ID',
