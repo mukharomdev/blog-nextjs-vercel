@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://mukharom.vercel.app',
   siteRepo: 'https://github.com/Mukharomdev/blog-nextjs-vercel',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/mukharomdev.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
   github: 'https://github.com',
