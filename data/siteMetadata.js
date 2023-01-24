@@ -15,7 +15,7 @@ const siteMetadata = {
   twitter: 'https://twitter.com/mukharomBYR',
   facebook: 'https://facebook.com/putu.munaren.9',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/mukharom-dev-681326263/',
   locale: 'id-ID',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
